@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Arturo Suárez 👋
 
-<!--
-**manuel-suarez/manuel-suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ph.D. Candidate in Computer Science | Software Developer | Data Scientist | Data Engineer
 
-Here are some ideas to get you started:
+🔭 I’m currently open to remote opportunities in:
+- Data Science
+- Data Engineering
+- Software Development
+- Geosciences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools:
+Python | Java | SQL | Docker | AWS | PyTorch | FastAPI | Kafka | Airflow
+
+📚 Recent Projects:
+- [Project 1 Name](link) – Short description.
+- [Project 2 Name](link) – Short description.
+- [Project 3 Name](link) – Short description.
+
+💬 Ask me about: Machine Learning, Deep Learning, Backend Development, Data Pipelines
+
+📫 How to reach me: [LinkedIn](your-linkedin) | Email: your-email@example.com
+
+---
+> *"Always learning, always building."*
