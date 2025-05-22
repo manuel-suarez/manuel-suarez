@@ -12,8 +12,8 @@
 Python | Java | PHP | SQL | Docker | AWS | PyTorch | Spring Boot | Laravel | Kafka | Airflow | Spark
 
 📚 Recent Projects:
-- [Data Science - EDA](git@github.com:manuel-suarez/portfolio-datascience-eda-mlproject.git) – Exploratory Data Analysis Project.
-- [Data Engineering - Spark](git@github.com:manuel-suarez/portfolio-dataengineering-etl-sparkproject.git) – Spark Data Engineering Project.
+- [Data Science - EDA](https://github.com/manuel-suarez/portfolio-datascience-eda-mlproject) – Exploratory Data Analysis Project.
+- [Data Engineering - Spark](https://github.com/manuel-suarez/portfolio-dataengineering-etl-sparkproject) – Spark Data Engineering Project.
 
 💬 Ask me about: Machine Learning, Deep Learning, Backend Development, Data Pipelines
 
