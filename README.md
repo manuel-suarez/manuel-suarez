@@ -8,13 +8,12 @@
 - Software Development
 - Geosciences
 
-🛠️ Technologies & Tools (TBD):
-Python | Java | SQL | Docker | AWS | PyTorch | FastAPI | Kafka | Airflow
+🛠️ Technologies & Tools:
+Python | Java | PHP | SQL | Docker | AWS | PyTorch | Spring Boot | Laravel | Kafka | Airflow | Spark
 
-📚 Recent Projects (TBD):
-- [Project 1 Name](link) – Short description.
-- [Project 2 Name](link) – Short description.
-- [Project 3 Name](link) – Short description.
+📚 Recent Projects:
+- [Data Science - EDA](git@github.com:manuel-suarez/portfolio-datascience-eda-mlproject.git) – Exploratory Data Analysis Project.
+- [Data Engineering - Spark](git@github.com:manuel-suarez/portfolio-dataengineering-etl-sparkproject.git) – Spark Data Engineering Project.
 
 💬 Ask me about: Machine Learning, Deep Learning, Backend Development, Data Pipelines
 
